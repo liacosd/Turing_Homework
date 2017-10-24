@@ -1,0 +1,6 @@
+%Write a program which asks the user for a word and counts how many times a 
+%vowel occurs in the word.
+var word : string
+var vowel : string := 0
+
+put "Please enter 
